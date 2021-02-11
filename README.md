@@ -1,2 +1,2 @@
 # WASDFox
-Web Game, includes foxes
+Web Game, includes foxes!
