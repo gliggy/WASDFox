@@ -1,3 +1,4 @@
+console.log("hello world");
 class Game {
     constructor(tileSize = 32, frameRate = 60, canvasId = VIEW_CANVAS_TAGNAME) {
         this.tileSize = tileSize;
